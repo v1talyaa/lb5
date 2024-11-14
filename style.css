@@ -1,0 +1,14 @@
+/* Стилі для жовтого блоку */
+#content {
+    background-color: yellow;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+/* Стилі для відображення погоди */
+#weatherInfo {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
